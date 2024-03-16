@@ -4,12 +4,14 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   desktop_drop
+  desktop_multi_window
   dynamic_color
   file_selector_linux
   gtk
   pasteboard
   screen_retriever
   system_tray
+  tray_manager
   url_launcher_linux
   window_manager
 )
